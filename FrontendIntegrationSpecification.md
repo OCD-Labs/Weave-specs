@@ -6,8 +6,6 @@
 
 **Date:** May 30, 2026
 
-**Backend:** https://weave.up.railway.app
-
 **Chain:** Robinhood Chain Testnet (Chain ID: 46630)
 
 This document is the authoritative reference for frontend integration. It is written from the actual deployed backend. Every response shape, field name, and data type is verified against the live API.
